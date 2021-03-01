@@ -1,0 +1,3 @@
+
+17:31:26=>first log message!
+17:31:26=>/home/zlf/zlf_project/MPRPC/example/callee/userservice.cc:main:57
