@@ -1,0 +1,57 @@
+[
+{
+  "directory": "/home/zlf/zlf_project/MPRPC/build/src",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7   -I/home/zlf/zlf_project/MPRPC/src/include -I/home/zlf/zlf_project/MPRPC/example  -g   -o CMakeFiles/mprpc.dir/mprpcapplication.cc.o -c /home/zlf/zlf_project/MPRPC/src/mprpcapplication.cc",
+  "file": "/home/zlf/zlf_project/MPRPC/src/mprpcapplication.cc"
+},
+{
+  "directory": "/home/zlf/zlf_project/MPRPC/build/src",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7   -I/home/zlf/zlf_project/MPRPC/src/include -I/home/zlf/zlf_project/MPRPC/example  -g   -o CMakeFiles/mprpc.dir/mprpcconfig.cc.o -c /home/zlf/zlf_project/MPRPC/src/mprpcconfig.cc",
+  "file": "/home/zlf/zlf_project/MPRPC/src/mprpcconfig.cc"
+},
+{
+  "directory": "/home/zlf/zlf_project/MPRPC/build/src",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7   -I/home/zlf/zlf_project/MPRPC/src/include -I/home/zlf/zlf_project/MPRPC/example  -g   -o CMakeFiles/mprpc.dir/rpcheader.pb.cc.o -c /home/zlf/zlf_project/MPRPC/src/rpcheader.pb.cc",
+  "file": "/home/zlf/zlf_project/MPRPC/src/rpcheader.pb.cc"
+},
+{
+  "directory": "/home/zlf/zlf_project/MPRPC/build/src",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7   -I/home/zlf/zlf_project/MPRPC/src/include -I/home/zlf/zlf_project/MPRPC/example  -g   -o CMakeFiles/mprpc.dir/rpcprovider.cc.o -c /home/zlf/zlf_project/MPRPC/src/rpcprovider.cc",
+  "file": "/home/zlf/zlf_project/MPRPC/src/rpcprovider.cc"
+},
+{
+  "directory": "/home/zlf/zlf_project/MPRPC/build/src",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7   -I/home/zlf/zlf_project/MPRPC/src/include -I/home/zlf/zlf_project/MPRPC/example  -g   -o CMakeFiles/mprpc.dir/mprpcchannel.cc.o -c /home/zlf/zlf_project/MPRPC/src/mprpcchannel.cc",
+  "file": "/home/zlf/zlf_project/MPRPC/src/mprpcchannel.cc"
+},
+{
+  "directory": "/home/zlf/zlf_project/MPRPC/build/src",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7   -I/home/zlf/zlf_project/MPRPC/src/include -I/home/zlf/zlf_project/MPRPC/example  -g   -o CMakeFiles/mprpc.dir/logger.cc.o -c /home/zlf/zlf_project/MPRPC/src/logger.cc",
+  "file": "/home/zlf/zlf_project/MPRPC/src/logger.cc"
+},
+{
+  "directory": "/home/zlf/zlf_project/MPRPC/build/src",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7   -I/home/zlf/zlf_project/MPRPC/src/include -I/home/zlf/zlf_project/MPRPC/example  -g   -o CMakeFiles/mprpc.dir/zookeeperutil.cc.o -c /home/zlf/zlf_project/MPRPC/src/zookeeperutil.cc",
+  "file": "/home/zlf/zlf_project/MPRPC/src/zookeeperutil.cc"
+},
+{
+  "directory": "/home/zlf/zlf_project/MPRPC/build/example/callee",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7   -I/home/zlf/zlf_project/MPRPC/src/include -I/home/zlf/zlf_project/MPRPC/example  -g   -o CMakeFiles/provider.dir/userservice.cc.o -c /home/zlf/zlf_project/MPRPC/example/callee/userservice.cc",
+  "file": "/home/zlf/zlf_project/MPRPC/example/callee/userservice.cc"
+},
+{
+  "directory": "/home/zlf/zlf_project/MPRPC/build/example/callee",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7   -I/home/zlf/zlf_project/MPRPC/src/include -I/home/zlf/zlf_project/MPRPC/example  -g   -o CMakeFiles/provider.dir/__/user.pb.cc.o -c /home/zlf/zlf_project/MPRPC/example/user.pb.cc",
+  "file": "/home/zlf/zlf_project/MPRPC/example/user.pb.cc"
+},
+{
+  "directory": "/home/zlf/zlf_project/MPRPC/build/example/caller",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7   -I/home/zlf/zlf_project/MPRPC/src/include -I/home/zlf/zlf_project/MPRPC/example  -g   -o CMakeFiles/consumer.dir/calluserservice.cc.o -c /home/zlf/zlf_project/MPRPC/example/caller/calluserservice.cc",
+  "file": "/home/zlf/zlf_project/MPRPC/example/caller/calluserservice.cc"
+},
+{
+  "directory": "/home/zlf/zlf_project/MPRPC/build/example/caller",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7   -I/home/zlf/zlf_project/MPRPC/src/include -I/home/zlf/zlf_project/MPRPC/example  -g   -o CMakeFiles/consumer.dir/__/user.pb.cc.o -c /home/zlf/zlf_project/MPRPC/example/user.pb.cc",
+  "file": "/home/zlf/zlf_project/MPRPC/example/user.pb.cc"
+}
+]
